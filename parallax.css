@@ -1,0 +1,104 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(img_parallax1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    
+
+}
+
+.div_1{
+    /* border: solid; */
+    text-align: center;
+    padding: 340px 0;
+}
+
+.div_1 h2{
+    /* border: solid; */
+    text-align: center;
+    background-color: gray;
+    color:white;
+    padding: 20px;
+    width: 25%;
+    margin: auto;
+}
+
+.div_2{
+    /* border: solid; */
+    background-color: white;
+    padding: 20px 0;
+}
+
+.container{
+/* border: solid; */
+    width: 1000px;
+    margin: auto;
+}
+
+.div_2 h2{
+    padding: 10px 0;
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.div_2 p{
+    line-height: 2;
+    padding: 10px 0;
+    text-align: justify;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.div_3{
+    /* border: solid; */
+    padding: 340px 0;
+    background-image: url(img_parallax2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+}
+
+.div_3 h2{
+    /* border: solid; */
+    text-align: center;
+ word-spacing: 10px;
+ letter-spacing: 10px ;
+ text-transform: uppercase;
+    color:white;
+  font-size: 30px;
+    margin: auto;
+}
+
+.div_4{
+    /* border: solid; */
+    padding: 80px 0;
+    background-color: black;
+    color:white;
+}
+
+.div_5{
+    /* border: solid; */
+    padding: 340px 0;
+    background-image: url(parallax3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+}
+
+.div_5 h2{
+    /* border: solid; */
+    text-align: center;
+ word-spacing: 10px;
+ letter-spacing: 10px ;
+ text-transform: uppercase;
+    color:white;
+  font-size: 30px;
+    margin: auto;
+}
